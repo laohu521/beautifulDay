@@ -1,0 +1,26 @@
+.logoIcon{
+  padding: 1rem 0 0 1rem;
+}
+
+.footer{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 4rem;
+  padding: 0.5rem;
+  font-weight: 600;
+  color: #000000;
+  text-align:center;
+}
+
+.div-layer {
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.38) !important;
+  width: 75%;
+  margin-left: 13%;
+  margin-right: 5%;
+  margin-top: 3%;
+  height: 70%;
+}

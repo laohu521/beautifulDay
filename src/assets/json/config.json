@@ -1,0 +1,43 @@
+{
+  "dashboard": {
+    "name": "系统接口1",
+    "url": "http://192.168.0.50:7104",
+    "test": true,
+    "pUrl": "http://123.207.251.35:7104",
+    "comCode": "cus000001cus000002",
+    "inType": "4"
+  },
+  "dashboard2": {
+    "name":"系统接口3",
+    "url": "http://192.168.0.50:7102",
+    "test":true,
+    "pUrl":"http://123.207.251.35:7102"
+  },
+  "dashboard3": {
+    "name": "系统接口3",
+    "url": "ws://192.168.0.155:9106",
+    "test": true,
+    "pUrl": "ws://123.207.251.35:9106"
+  },
+  "dashboard4":{
+    "name":"刷卡记录接口",
+    "url": "ws://192.168.0.155:9101",
+    "test":true,
+    "pUrl":"ws://119.29.86.195:9101",
+    "start":true
+  },
+  "dashboard5": {
+    "name": "访客人数统计接口",
+    "url": "ws://192.168.0.155:9102",
+    "test": true,
+    "pUrl": "ws://123.207.251.35:9102",
+    "start": true
+  },
+  "dashboard6": {
+    "name": "成功接收接口",
+    "url": "ws://192.168.0.155:9104",
+    "test": true,
+    "pUrl": "ws://123.207.251.35:9104",
+    "start": true
+  }
+}
